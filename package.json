@@ -8,7 +8,7 @@
     },
     "description": "Customized VSCode color theme for coders",
     "publisher": "Jokr7",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.40.0"
     },
