@@ -1,0 +1,30 @@
+{
+    "name": "jokr-color-theme",
+    "displayName": "Jokr Color Theme",
+    "author": {
+        "name": "Siva Chegondi",
+        "email": "smartsiva@outlook.com",
+        "url": "https://.jokrhat.in"
+    },
+    "description": "Customized VSCode color theme for coders",
+    "publisher": "Jokr7",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "url": "https://github.com/siva-chegondi/jokr-color-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jokr Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jokr-color-theme.json"
+            }
+        ]
+    }
+}
